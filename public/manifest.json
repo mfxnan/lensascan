@@ -1,0 +1,18 @@
+{
+  "name": "LensaScan — Web Document Scanner",
+  "short_name": "LensaScan",
+  "description": "Pemindai dokumen cerdas berbasis web dengan koreksi perspektif 4 titik, filter dokumen, multi-halaman PDF, dan OCR.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#0D8A72",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
